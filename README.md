@@ -14,7 +14,7 @@ Lucas Matos de Santana - RGM: 29371538
 - [@Kauê](https://github.com/KaueLoviz)
 - [@Lucas](https://github.com/Lucascuca)
 - [@Daniel](https://github.com/Dan1elMessias)
-- [@Camila](https://github.com/)
+- [@Camila](https://github.com/Cmilacs)
 
  
 ## Tech Stack📝
