@@ -1,4 +1,4 @@
-# Desafio 🎲
+# APS II 🎲
 Análise e Projeto de Sistemas II
 
 Kauê Loviz de Oliveira - RGM: 30650615
