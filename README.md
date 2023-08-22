@@ -5,7 +5,11 @@ Kauê Loviz de Oliveira - RGM: 30650615
 
 Daniel Amorim Messias - RGM: 31116736
 
+Daniel Alvaro da Silva - RGM: 30344905
+
 Camila Cunha da Silva - RGM: 29372917
+
+Milton Andrade Eufrasio Junior - RGM: 30009456
 
 Lucas Matos de Santana - RGM: 29371538
 
