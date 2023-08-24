@@ -22,4 +22,5 @@ Lucas Matos de Santana - RGM: 29371538
 
  
 ## Tech Stack📝
-**Back-end:** JS.
+**Back-end:** PHP, PHPmyadmin.
+**Front-end:** HTML, CSS, JS.
